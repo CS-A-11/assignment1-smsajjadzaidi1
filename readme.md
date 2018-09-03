@@ -1,3 +1,9 @@
+Link to personal site: https://smsajjadzaidi1.github.io/
+Link to project site: <project site url>
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/CS-A-11/assignment1-smsajjadzaidi1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
