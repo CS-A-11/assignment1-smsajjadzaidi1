@@ -1,4 +1,4 @@
-Link to personal site: https://smsajjadzaidi1.github.io/ <br>
+Link to personal site: https://smsajjadzaidi1.github.io/sajjadzaidi.github.io/ <br>
 Link to project site: http://cs-a-11.github.io/assignment1-smsajjadzaidi1/
 
 The purpose of assignment was to familiarise us with HTML.  <br>
